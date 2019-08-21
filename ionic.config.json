@@ -1,5 +1,7 @@
 {
   "name": "itest",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
